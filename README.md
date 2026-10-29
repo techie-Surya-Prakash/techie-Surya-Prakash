@@ -49,8 +49,6 @@ A browser-based runner game featured on my portfolio.
 - 📈 Track your score and best score.
 - 🌐 Play it through my portfolio website.
 
-**[▶️ Visit My Portfolio & Play the Game](https://singular-sunshine-c05d95.netlify.app)**
-
 > More projects will be added here as I build and publish them.
 
 ## 🌱 What I'm Learning
@@ -62,7 +60,6 @@ A browser-based runner game featured on my portfolio.
 
 ## 🤝 Let's Connect
 
-- 🌐 **Portfolio:** [singular-sunshine-c05d95.netlify.app](https://singular-sunshine-c05d95.netlify.app)
 - 🐙 **GitHub:** [Explore my repositories](https://github.com/)
 
 You can open an issue or start a discussion on one of my repositories to share ideas or suggestions.
