@@ -6,7 +6,7 @@
 
 *Also known as **code_with_sury4** — learning, building, and sharing one project at a time.*
 
-[![Portfolio]https://techie-surya-prakash.github.io/code_with_sury4/
+[![Portfolio]_(https://techie-surya-prakash.github.io/code_with_sury4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/)
 
 </div>
